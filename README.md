@@ -1,2 +1,2 @@
 # testrepo
-jsut checking URLS
+just checking URLS
